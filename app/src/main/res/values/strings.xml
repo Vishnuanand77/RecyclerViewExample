@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    
+    <string-array name="programmingLanguages">
+        <item>Android studio</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>Visual Studio</item>
+        <item> Html 5</item>
+        <item> CSS 3</item>
+    </string-array>
+
+    <string-array name="Descriptions">
+        <item>This is a an IDE</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+        <item>This is an IDE</item>
+        <item>This is a programming language</item>
+        <item>This is a programming language</item>
+    </string-array>
+</resources>
